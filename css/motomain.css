@@ -1,0 +1,12 @@
+.motomain-title {
+  text-align: center;
+  font-size: 40px;
+  margin: 20px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.motomain-title i {
+  margin-right: 10px;
+}
